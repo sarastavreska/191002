@@ -1,0 +1,334 @@
+﻿++Solution 'TicketShopApplication' ‎(4 of 4 projects)
+i:{00000000-0000-0000-0000-000000000000}:TicketShopApplication.sln
+++TicketShop
+i:{00000000-0000-0000-0000-000000000000}:TicketShop
+++TicketShop.Repository
+i:{ae6bd370-c843-4147-b91f-deb69d8dab11}:TicketShop.Repository
+i:{64c9a78c-fba4-4f75-b913-644971aa5fd6}:c:\users\simona\desktop\integrated systems\ticketapplicationhw\ticketshopapplication\ticketshop.repository\bin\debug\netcoreapp3.1\ticketshop.repository.dll
+i:{73569d7c-8c45-45f9-806b-486ee2405f6a}:c:\users\simona\desktop\integrated systems\ticketapplicationhw\ticketshopapplication\ticketshop.repository\bin\debug\netcoreapp3.1\ticketshop.repository.dll
+++Dependencies
+i:{7f997f5d-b568-46db-a997-fde8802ec41e}:>705
+i:{afb71c73-74b3-45ec-b259-766cd270f89e}:>706
+i:{64c9a78c-fba4-4f75-b913-644971aa5fd6}:>707
+i:{73569d7c-8c45-45f9-806b-486ee2405f6a}:>1053
+++Implementation
+i:{7f997f5d-b568-46db-a997-fde8802ec41e}:c:\users\simona\desktop\integrated systems\ticketapplicationhw\ticketshopapplication\ticketshop.repository\implementation\
+i:{64c9a78c-fba4-4f75-b913-644971aa5fd6}:c:\users\simona\desktop\integrated systems\ticketapplicationhw\ticketshopapplication\ticketshop.service\implementation\
+++Interface
+i:{7f997f5d-b568-46db-a997-fde8802ec41e}:c:\users\simona\desktop\integrated systems\ticketapplicationhw\ticketshopapplication\ticketshop.repository\interface\
+i:{64c9a78c-fba4-4f75-b913-644971aa5fd6}:c:\users\simona\desktop\integrated systems\ticketapplicationhw\ticketshopapplication\ticketshop.service\interface\
+++Migrations
+i:{7f997f5d-b568-46db-a997-fde8802ec41e}:c:\users\simona\desktop\integrated systems\ticketapplicationhw\ticketshopapplication\ticketshop.repository\migrations\
+++ApplicationDbContext.cs
+i:{7f997f5d-b568-46db-a997-fde8802ec41e}:c:\users\simona\desktop\integrated systems\ticketapplicationhw\ticketshopapplication\ticketshop.repository\applicationdbcontext.cs
+++Analyzers
+i:{7f997f5d-b568-46db-a997-fde8802ec41e}:analyzers
+i:{afb71c73-74b3-45ec-b259-766cd270f89e}:analyzers
+i:{64c9a78c-fba4-4f75-b913-644971aa5fd6}:analyzers
+i:{73569d7c-8c45-45f9-806b-486ee2405f6a}:analyzers
+++Frameworks
+i:{7f997f5d-b568-46db-a997-fde8802ec41e}:frameworks
+i:{afb71c73-74b3-45ec-b259-766cd270f89e}:frameworks
+i:{64c9a78c-fba4-4f75-b913-644971aa5fd6}:frameworks
+i:{73569d7c-8c45-45f9-806b-486ee2405f6a}:frameworks
+++Packages
+i:{7f997f5d-b568-46db-a997-fde8802ec41e}:packages
+i:{afb71c73-74b3-45ec-b259-766cd270f89e}:packages
+i:{73569d7c-8c45-45f9-806b-486ee2405f6a}:packages
+++Projects
+i:{7f997f5d-b568-46db-a997-fde8802ec41e}:projects
+i:{64c9a78c-fba4-4f75-b913-644971aa5fd6}:projects
+i:{73569d7c-8c45-45f9-806b-486ee2405f6a}:projects
+++Repository.cs
+i:{7f997f5d-b568-46db-a997-fde8802ec41e}:c:\users\simona\desktop\integrated systems\ticketapplicationhw\ticketshopapplication\ticketshop.repository\implementation\repository.cs
+++UserRepository.cs
+i:{7f997f5d-b568-46db-a997-fde8802ec41e}:c:\users\simona\desktop\integrated systems\ticketapplicationhw\ticketshopapplication\ticketshop.repository\implementation\userrepository.cs
+++IRepository.cs
+i:{7f997f5d-b568-46db-a997-fde8802ec41e}:c:\users\simona\desktop\integrated systems\ticketapplicationhw\ticketshopapplication\ticketshop.repository\interface\irepository.cs
+++IUserRepository.cs
+i:{7f997f5d-b568-46db-a997-fde8802ec41e}:c:\users\simona\desktop\integrated systems\ticketapplicationhw\ticketshopapplication\ticketshop.repository\interface\iuserrepository.cs
+++20220714231052_Initial.cs
+i:{7f997f5d-b568-46db-a997-fde8802ec41e}:c:\users\simona\desktop\integrated systems\ticketapplicationhw\ticketshopapplication\ticketshop.repository\migrations\20220714231052_initial.cs
+++20220715002924_addedCompositekey.cs
+i:{7f997f5d-b568-46db-a997-fde8802ec41e}:c:\users\simona\desktop\integrated systems\ticketapplicationhw\ticketshopapplication\ticketshop.repository\migrations\20220715002924_addedcompositekey.cs
+++ApplicationDbContextModelSnapshot.cs
+i:{7f997f5d-b568-46db-a997-fde8802ec41e}:c:\users\simona\desktop\integrated systems\ticketapplicationhw\ticketshopapplication\ticketshop.repository\migrations\applicationdbcontextmodelsnapshot.cs
+++Microsoft.EntityFrameworkCore.Analyzers
+i:{7f997f5d-b568-46db-a997-fde8802ec41e}:c:\users\simona\.nuget\packages\microsoft.entityframeworkcore.analyzers\3.1.12\analyzers\dotnet\cs\microsoft.entityframeworkcore.analyzers.dll
+i:{afb71c73-74b3-45ec-b259-766cd270f89e}:c:\users\simona\.nuget\packages\microsoft.entityframeworkcore.analyzers\3.1.12\analyzers\dotnet\cs\microsoft.entityframeworkcore.analyzers.dll
+i:{64c9a78c-fba4-4f75-b913-644971aa5fd6}:c:\users\simona\.nuget\packages\microsoft.entityframeworkcore.analyzers\3.1.12\analyzers\dotnet\cs\microsoft.entityframeworkcore.analyzers.dll
+i:{73569d7c-8c45-45f9-806b-486ee2405f6a}:c:\users\simona\.nuget\packages\microsoft.entityframeworkcore.analyzers\3.1.25\analyzers\dotnet\cs\microsoft.entityframeworkcore.analyzers.dll
+++Microsoft.NETCore.App
+i:{7f997f5d-b568-46db-a997-fde8802ec41e}:c:\users\simona\desktop\integrated systems\ticketapplicationhw\ticketshopapplication\ticketshop.repository\microsoft.netcore.app
+i:{afb71c73-74b3-45ec-b259-766cd270f89e}:c:\users\simona\desktop\integrated systems\ticketapplicationhw\ticketshopapplication\ticketshop.domain\microsoft.netcore.app
+i:{64c9a78c-fba4-4f75-b913-644971aa5fd6}:c:\users\simona\desktop\integrated systems\ticketapplicationhw\ticketshopapplication\ticketshop.service\microsoft.netcore.app
+i:{73569d7c-8c45-45f9-806b-486ee2405f6a}:c:\users\simona\desktop\integrated systems\ticketapplicationhw\ticketshopapplication\ticketshop.web\microsoft.netcore.app
+++Microsoft.AspNetCore.Identity.EntityFrameworkCore (3.1.12)
+i:{7f997f5d-b568-46db-a997-fde8802ec41e}:>1067
+i:{afb71c73-74b3-45ec-b259-766cd270f89e}:>1075
+++Microsoft.EntityFrameworkCore.SqlServer (3.1.12)
+i:{7f997f5d-b568-46db-a997-fde8802ec41e}:>1066
+i:{73569d7c-8c45-45f9-806b-486ee2405f6a}:>1087
+++TicketShop.Domain
+i:{7f997f5d-b568-46db-a997-fde8802ec41e}:c:\users\simona\desktop\integrated systems\ticketapplicationhw\ticketshopapplication\ticketshop.domain\bin\debug\netcoreapp3.1\ticketshop.domain.dll
+i:{ae6bd370-c843-4147-b91f-deb69d8dab11}:TicketShop.Domain
+i:{64c9a78c-fba4-4f75-b913-644971aa5fd6}:c:\users\simona\desktop\integrated systems\ticketapplicationhw\ticketshopapplication\ticketshop.domain\bin\debug\netcoreapp3.1\ticketshop.domain.dll
+i:{73569d7c-8c45-45f9-806b-486ee2405f6a}:c:\users\simona\desktop\integrated systems\ticketapplicationhw\ticketshopapplication\ticketshop.domain\bin\debug\netcoreapp3.1\ticketshop.domain.dll
+++20220714231052_Initial.Designer.cs
+i:{7f997f5d-b568-46db-a997-fde8802ec41e}:c:\users\simona\desktop\integrated systems\ticketapplicationhw\ticketshopapplication\ticketshop.repository\migrations\20220714231052_initial.designer.cs
+++20220715002924_addedCompositekey.Designer.cs
+i:{7f997f5d-b568-46db-a997-fde8802ec41e}:c:\users\simona\desktop\integrated systems\ticketapplicationhw\ticketshopapplication\ticketshop.repository\migrations\20220715002924_addedcompositekey.designer.cs
+++DomainModels
+i:{afb71c73-74b3-45ec-b259-766cd270f89e}:c:\users\simona\desktop\integrated systems\ticketapplicationhw\ticketshopapplication\ticketshop.domain\domainmodels\
+++DTO
+i:{afb71c73-74b3-45ec-b259-766cd270f89e}:c:\users\simona\desktop\integrated systems\ticketapplicationhw\ticketshopapplication\ticketshop.domain\dto\
+++Identity
+i:{afb71c73-74b3-45ec-b259-766cd270f89e}:c:\users\simona\desktop\integrated systems\ticketapplicationhw\ticketshopapplication\ticketshop.domain\identity\
+i:{73569d7c-8c45-45f9-806b-486ee2405f6a}:c:\users\simona\desktop\integrated systems\ticketapplicationhw\ticketshopapplication\ticketshop.web\areas\identity\
+++ErrorViewModel.cs
+i:{afb71c73-74b3-45ec-b259-766cd270f89e}:c:\users\simona\desktop\integrated systems\ticketapplicationhw\ticketshopapplication\ticketshop.domain\errorviewmodel.cs
+++BaseEntity.cs
+i:{afb71c73-74b3-45ec-b259-766cd270f89e}:c:\users\simona\desktop\integrated systems\ticketapplicationhw\ticketshopapplication\ticketshop.domain\domainmodels\baseentity.cs
+++Order.cs
+i:{afb71c73-74b3-45ec-b259-766cd270f89e}:c:\users\simona\desktop\integrated systems\ticketapplicationhw\ticketshopapplication\ticketshop.domain\domainmodels\order.cs
+++ShoppingCart.cs
+i:{afb71c73-74b3-45ec-b259-766cd270f89e}:c:\users\simona\desktop\integrated systems\ticketapplicationhw\ticketshopapplication\ticketshop.domain\domainmodels\shoppingcart.cs
+++Ticket.cs
+i:{afb71c73-74b3-45ec-b259-766cd270f89e}:c:\users\simona\desktop\integrated systems\ticketapplicationhw\ticketshopapplication\ticketshop.domain\domainmodels\ticket.cs
+++TicketInOrder.cs
+i:{afb71c73-74b3-45ec-b259-766cd270f89e}:c:\users\simona\desktop\integrated systems\ticketapplicationhw\ticketshopapplication\ticketshop.domain\domainmodels\ticketinorder.cs
+++TicketInShoppingCart.cs
+i:{afb71c73-74b3-45ec-b259-766cd270f89e}:c:\users\simona\desktop\integrated systems\ticketapplicationhw\ticketshopapplication\ticketshop.domain\domainmodels\ticketinshoppingcart.cs
+++AddToShoppingCartDto.cs
+i:{afb71c73-74b3-45ec-b259-766cd270f89e}:c:\users\simona\desktop\integrated systems\ticketapplicationhw\ticketshopapplication\ticketshop.domain\dto\addtoshoppingcartdto.cs
+++ShoppingCartDto.cs
+i:{afb71c73-74b3-45ec-b259-766cd270f89e}:c:\users\simona\desktop\integrated systems\ticketapplicationhw\ticketshopapplication\ticketshop.domain\dto\shoppingcartdto.cs
+++TicketShopAppUser.cs
+i:{afb71c73-74b3-45ec-b259-766cd270f89e}:c:\users\simona\desktop\integrated systems\ticketapplicationhw\ticketshopapplication\ticketshop.domain\identity\ticketshopappuser.cs
+++UserLoginDto.cs
+i:{afb71c73-74b3-45ec-b259-766cd270f89e}:c:\users\simona\desktop\integrated systems\ticketapplicationhw\ticketshopapplication\ticketshop.domain\identity\userlogindto.cs
+++UserRegistrationDto.cs
+i:{afb71c73-74b3-45ec-b259-766cd270f89e}:c:\users\simona\desktop\integrated systems\ticketapplicationhw\ticketshopapplication\ticketshop.domain\identity\userregistrationdto.cs
+++TicketShop.Service
+i:{ae6bd370-c843-4147-b91f-deb69d8dab11}:TicketShop.Service
+i:{73569d7c-8c45-45f9-806b-486ee2405f6a}:c:\users\simona\desktop\integrated systems\ticketapplicationhw\ticketshopapplication\ticketshop.service\bin\debug\netcoreapp3.1\ticketshop.service.dll
+++Class1.cs
+i:{64c9a78c-fba4-4f75-b913-644971aa5fd6}:c:\users\simona\desktop\integrated systems\ticketapplicationhw\ticketshopapplication\ticketshop.service\class1.cs
+++ShoppingCartService.cs
+i:{64c9a78c-fba4-4f75-b913-644971aa5fd6}:c:\users\simona\desktop\integrated systems\ticketapplicationhw\ticketshopapplication\ticketshop.service\implementation\shoppingcartservice.cs
+++TicketService.cs
+i:{64c9a78c-fba4-4f75-b913-644971aa5fd6}:c:\users\simona\desktop\integrated systems\ticketapplicationhw\ticketshopapplication\ticketshop.service\implementation\ticketservice.cs
+++IShoppingCartService.cs
+i:{64c9a78c-fba4-4f75-b913-644971aa5fd6}:c:\users\simona\desktop\integrated systems\ticketapplicationhw\ticketshopapplication\ticketshop.service\interface\ishoppingcartservice.cs
+++ITicketService.cs
+i:{64c9a78c-fba4-4f75-b913-644971aa5fd6}:c:\users\simona\desktop\integrated systems\ticketapplicationhw\ticketshopapplication\ticketshop.service\interface\iticketservice.cs
+++TicketShop.Web
+i:{ae6bd370-c843-4147-b91f-deb69d8dab11}:TicketShop.Web
+++Connected Services 
+i:{73569d7c-8c45-45f9-806b-486ee2405f6a}:>1054
+++Properties
+i:{73569d7c-8c45-45f9-806b-486ee2405f6a}:c:\users\simona\desktop\integrated systems\ticketapplicationhw\ticketshopapplication\ticketshop.web\properties\
+++launchSettings.json
+i:{73569d7c-8c45-45f9-806b-486ee2405f6a}:c:\users\simona\desktop\integrated systems\ticketapplicationhw\ticketshopapplication\ticketshop.web\properties\launchsettings.json
+++serviceDependencies.json
+i:{73569d7c-8c45-45f9-806b-486ee2405f6a}:c:\users\simona\desktop\integrated systems\ticketapplicationhw\ticketshopapplication\ticketshop.web\properties\servicedependencies.json
+++wwwroot
+i:{73569d7c-8c45-45f9-806b-486ee2405f6a}:c:\users\simona\desktop\integrated systems\ticketapplicationhw\ticketshopapplication\ticketshop.web\wwwroot\
+++Areas
+i:{73569d7c-8c45-45f9-806b-486ee2405f6a}:c:\users\simona\desktop\integrated systems\ticketapplicationhw\ticketshopapplication\ticketshop.web\areas\
+++Controllers
+i:{73569d7c-8c45-45f9-806b-486ee2405f6a}:c:\users\simona\desktop\integrated systems\ticketapplicationhw\ticketshopapplication\ticketshop.web\controllers\
+++ApiControllers
+i:{73569d7c-8c45-45f9-806b-486ee2405f6a}:c:\users\simona\desktop\integrated systems\ticketapplicationhw\ticketshopapplication\ticketshop.web\controllers\apicontrollers\
+++AccountController.cs
+i:{73569d7c-8c45-45f9-806b-486ee2405f6a}:c:\users\simona\desktop\integrated systems\ticketapplicationhw\ticketshopapplication\ticketshop.web\controllers\accountcontroller.cs
+++HomeController.cs
+i:{73569d7c-8c45-45f9-806b-486ee2405f6a}:c:\users\simona\desktop\integrated systems\ticketapplicationhw\ticketshopapplication\ticketshop.web\controllers\homecontroller.cs
+++ShoppingCartController.cs
+i:{73569d7c-8c45-45f9-806b-486ee2405f6a}:c:\users\simona\desktop\integrated systems\ticketapplicationhw\ticketshopapplication\ticketshop.web\controllers\shoppingcartcontroller.cs
+++TicketsController.cs
+i:{73569d7c-8c45-45f9-806b-486ee2405f6a}:c:\users\simona\desktop\integrated systems\ticketapplicationhw\ticketshopapplication\ticketshop.web\controllers\ticketscontroller.cs
+++Views
+i:{73569d7c-8c45-45f9-806b-486ee2405f6a}:c:\users\simona\desktop\integrated systems\ticketapplicationhw\ticketshopapplication\ticketshop.web\views\
+++appsettings.json
+i:{73569d7c-8c45-45f9-806b-486ee2405f6a}:c:\users\simona\desktop\integrated systems\ticketapplicationhw\ticketshopapplication\ticketshop.web\appsettings.json
+++Program.cs
+i:{73569d7c-8c45-45f9-806b-486ee2405f6a}:c:\users\simona\desktop\integrated systems\ticketapplicationhw\ticketshopapplication\ticketshop.web\program.cs
+++Startup.cs
+i:{73569d7c-8c45-45f9-806b-486ee2405f6a}:c:\users\simona\desktop\integrated systems\ticketapplicationhw\ticketshopapplication\ticketshop.web\startup.cs
+++SQL Server Express LocalDB (Local) (ConnectionStrings:DefaultConnection)
+i:{73569d7c-8c45-45f9-806b-486ee2405f6a}:>1099
+++serviceDependencies.local.json
+i:{73569d7c-8c45-45f9-806b-486ee2405f6a}:c:\users\simona\desktop\integrated systems\ticketapplicationhw\ticketshopapplication\ticketshop.web\properties\servicedependencies.local.json
+++css
+i:{73569d7c-8c45-45f9-806b-486ee2405f6a}:c:\users\simona\desktop\integrated systems\ticketapplicationhw\ticketshopapplication\ticketshop.web\wwwroot\css\
+i:{73569d7c-8c45-45f9-806b-486ee2405f6a}:c:\users\simona\desktop\integrated systems\ticketapplicationhw\ticketshopapplication\ticketshop.web\wwwroot\lib\bootstrap\dist\css\
+++js
+i:{73569d7c-8c45-45f9-806b-486ee2405f6a}:c:\users\simona\desktop\integrated systems\ticketapplicationhw\ticketshopapplication\ticketshop.web\wwwroot\js\
+i:{73569d7c-8c45-45f9-806b-486ee2405f6a}:c:\users\simona\desktop\integrated systems\ticketapplicationhw\ticketshopapplication\ticketshop.web\wwwroot\lib\bootstrap\dist\js\
+++lib
+i:{73569d7c-8c45-45f9-806b-486ee2405f6a}:c:\users\simona\desktop\integrated systems\ticketapplicationhw\ticketshopapplication\ticketshop.web\wwwroot\lib\
+++favicon.ico
+i:{73569d7c-8c45-45f9-806b-486ee2405f6a}:c:\users\simona\desktop\integrated systems\ticketapplicationhw\ticketshopapplication\ticketshop.web\wwwroot\favicon.ico
+++Pages
+i:{73569d7c-8c45-45f9-806b-486ee2405f6a}:c:\users\simona\desktop\integrated systems\ticketapplicationhw\ticketshopapplication\ticketshop.web\areas\identity\pages\
+++Account
+i:{73569d7c-8c45-45f9-806b-486ee2405f6a}:c:\users\simona\desktop\integrated systems\ticketapplicationhw\ticketshopapplication\ticketshop.web\views\account\
+++Home
+i:{73569d7c-8c45-45f9-806b-486ee2405f6a}:c:\users\simona\desktop\integrated systems\ticketapplicationhw\ticketshopapplication\ticketshop.web\views\home\
+++Shared
+i:{73569d7c-8c45-45f9-806b-486ee2405f6a}:c:\users\simona\desktop\integrated systems\ticketapplicationhw\ticketshopapplication\ticketshop.web\views\shared\
+++ShoppingCart
+i:{73569d7c-8c45-45f9-806b-486ee2405f6a}:c:\users\simona\desktop\integrated systems\ticketapplicationhw\ticketshopapplication\ticketshop.web\views\shoppingcart\
+++Tickets
+i:{73569d7c-8c45-45f9-806b-486ee2405f6a}:c:\users\simona\desktop\integrated systems\ticketapplicationhw\ticketshopapplication\ticketshop.web\views\tickets\
+++_ViewImports.cshtml
+i:{73569d7c-8c45-45f9-806b-486ee2405f6a}:c:\users\simona\desktop\integrated systems\ticketapplicationhw\ticketshopapplication\ticketshop.web\views\_viewimports.cshtml
+++_ViewStart.cshtml
+i:{73569d7c-8c45-45f9-806b-486ee2405f6a}:c:\users\simona\desktop\integrated systems\ticketapplicationhw\ticketshopapplication\ticketshop.web\views\_viewstart.cshtml
+i:{73569d7c-8c45-45f9-806b-486ee2405f6a}:c:\users\simona\desktop\integrated systems\ticketapplicationhw\ticketshopapplication\ticketshop.web\areas\identity\pages\_viewstart.cshtml
+++appsettings.Development.json
+i:{73569d7c-8c45-45f9-806b-486ee2405f6a}:c:\users\simona\desktop\integrated systems\ticketapplicationhw\ticketshopapplication\ticketshop.web\appsettings.development.json
+++Microsoft.AspNetCore.Analyzers
+i:{73569d7c-8c45-45f9-806b-486ee2405f6a}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.analyzers.dll
+++Microsoft.AspNetCore.Components.Analyzers
+i:{73569d7c-8c45-45f9-806b-486ee2405f6a}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.components.analyzers.dll
+++Microsoft.AspNetCore.Mvc.Analyzers
+i:{73569d7c-8c45-45f9-806b-486ee2405f6a}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.mvc.analyzers.dll
+++Microsoft.CodeAnalysis.Analyzers
+i:{73569d7c-8c45-45f9-806b-486ee2405f6a}:c:\users\simona\.nuget\packages\microsoft.codeanalysis.analyzers\2.9.4\analyzers\dotnet\cs\microsoft.codeanalysis.analyzers.dll
+++Microsoft.CodeAnalysis.CSharp.Analyzers
+i:{73569d7c-8c45-45f9-806b-486ee2405f6a}:c:\users\simona\.nuget\packages\microsoft.codeanalysis.analyzers\2.9.4\analyzers\dotnet\cs\microsoft.codeanalysis.csharp.analyzers.dll
+++Microsoft.AspNetCore.App
+i:{73569d7c-8c45-45f9-806b-486ee2405f6a}:c:\users\simona\desktop\integrated systems\ticketapplicationhw\ticketshopapplication\ticketshop.web\microsoft.aspnetcore.app
+++Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore (3.1.22)
+i:{73569d7c-8c45-45f9-806b-486ee2405f6a}:>1088
+++Microsoft.AspNetCore.Identity.EntityFrameworkCore (3.1.22)
+i:{73569d7c-8c45-45f9-806b-486ee2405f6a}:>1089
+++Microsoft.AspNetCore.Identity.UI (3.1.12)
+i:{73569d7c-8c45-45f9-806b-486ee2405f6a}:>1092
+++Microsoft.EntityFrameworkCore.Tools (3.1.25)
+i:{73569d7c-8c45-45f9-806b-486ee2405f6a}:>1090
+++Microsoft.VisualStudio.Web.CodeGeneration.Design (3.1.5)
+i:{73569d7c-8c45-45f9-806b-486ee2405f6a}:>1091
+++site.css
+i:{73569d7c-8c45-45f9-806b-486ee2405f6a}:c:\users\simona\desktop\integrated systems\ticketapplicationhw\ticketshopapplication\ticketshop.web\wwwroot\css\site.css
+++site.js
+i:{73569d7c-8c45-45f9-806b-486ee2405f6a}:c:\users\simona\desktop\integrated systems\ticketapplicationhw\ticketshopapplication\ticketshop.web\wwwroot\js\site.js
+++bootstrap
+i:{73569d7c-8c45-45f9-806b-486ee2405f6a}:c:\users\simona\desktop\integrated systems\ticketapplicationhw\ticketshopapplication\ticketshop.web\wwwroot\lib\bootstrap\
+++jquery
+i:{73569d7c-8c45-45f9-806b-486ee2405f6a}:c:\users\simona\desktop\integrated systems\ticketapplicationhw\ticketshopapplication\ticketshop.web\wwwroot\lib\jquery\
+++jquery-validation
+i:{73569d7c-8c45-45f9-806b-486ee2405f6a}:c:\users\simona\desktop\integrated systems\ticketapplicationhw\ticketshopapplication\ticketshop.web\wwwroot\lib\jquery-validation\
+++jquery-validation-unobtrusive
+i:{73569d7c-8c45-45f9-806b-486ee2405f6a}:c:\users\simona\desktop\integrated systems\ticketapplicationhw\ticketshopapplication\ticketshop.web\wwwroot\lib\jquery-validation-unobtrusive\
+++Login.cshtml
+i:{73569d7c-8c45-45f9-806b-486ee2405f6a}:c:\users\simona\desktop\integrated systems\ticketapplicationhw\ticketshopapplication\ticketshop.web\views\account\login.cshtml
+++Register.cshtml
+i:{73569d7c-8c45-45f9-806b-486ee2405f6a}:c:\users\simona\desktop\integrated systems\ticketapplicationhw\ticketshopapplication\ticketshop.web\views\account\register.cshtml
+++Index.cshtml
+i:{73569d7c-8c45-45f9-806b-486ee2405f6a}:c:\users\simona\desktop\integrated systems\ticketapplicationhw\ticketshopapplication\ticketshop.web\views\home\index.cshtml
+i:{73569d7c-8c45-45f9-806b-486ee2405f6a}:c:\users\simona\desktop\integrated systems\ticketapplicationhw\ticketshopapplication\ticketshop.web\views\shoppingcart\index.cshtml
+i:{73569d7c-8c45-45f9-806b-486ee2405f6a}:c:\users\simona\desktop\integrated systems\ticketapplicationhw\ticketshopapplication\ticketshop.web\views\tickets\index.cshtml
+++Privacy.cshtml
+i:{73569d7c-8c45-45f9-806b-486ee2405f6a}:c:\users\simona\desktop\integrated systems\ticketapplicationhw\ticketshopapplication\ticketshop.web\views\home\privacy.cshtml
+++_Layout.cshtml
+i:{73569d7c-8c45-45f9-806b-486ee2405f6a}:c:\users\simona\desktop\integrated systems\ticketapplicationhw\ticketshopapplication\ticketshop.web\views\shared\_layout.cshtml
+++_LoginPartial.cshtml
+i:{73569d7c-8c45-45f9-806b-486ee2405f6a}:c:\users\simona\desktop\integrated systems\ticketapplicationhw\ticketshopapplication\ticketshop.web\views\shared\_loginpartial.cshtml
+++_ValidationScriptsPartial.cshtml
+i:{73569d7c-8c45-45f9-806b-486ee2405f6a}:c:\users\simona\desktop\integrated systems\ticketapplicationhw\ticketshopapplication\ticketshop.web\views\shared\_validationscriptspartial.cshtml
+++Error.cshtml
+i:{73569d7c-8c45-45f9-806b-486ee2405f6a}:c:\users\simona\desktop\integrated systems\ticketapplicationhw\ticketshopapplication\ticketshop.web\views\shared\error.cshtml
+++AddTicketToCart.cshtml
+i:{73569d7c-8c45-45f9-806b-486ee2405f6a}:c:\users\simona\desktop\integrated systems\ticketapplicationhw\ticketshopapplication\ticketshop.web\views\tickets\addtickettocart.cshtml
+++Create.cshtml
+i:{73569d7c-8c45-45f9-806b-486ee2405f6a}:c:\users\simona\desktop\integrated systems\ticketapplicationhw\ticketshopapplication\ticketshop.web\views\tickets\create.cshtml
+++Delete.cshtml
+i:{73569d7c-8c45-45f9-806b-486ee2405f6a}:c:\users\simona\desktop\integrated systems\ticketapplicationhw\ticketshopapplication\ticketshop.web\views\tickets\delete.cshtml
+++Details.cshtml
+i:{73569d7c-8c45-45f9-806b-486ee2405f6a}:c:\users\simona\desktop\integrated systems\ticketapplicationhw\ticketshopapplication\ticketshop.web\views\tickets\details.cshtml
+++Edit.cshtml
+i:{73569d7c-8c45-45f9-806b-486ee2405f6a}:c:\users\simona\desktop\integrated systems\ticketapplicationhw\ticketshopapplication\ticketshop.web\views\tickets\edit.cshtml
+++dist
+i:{73569d7c-8c45-45f9-806b-486ee2405f6a}:c:\users\simona\desktop\integrated systems\ticketapplicationhw\ticketshopapplication\ticketshop.web\wwwroot\lib\bootstrap\dist\
+i:{73569d7c-8c45-45f9-806b-486ee2405f6a}:c:\users\simona\desktop\integrated systems\ticketapplicationhw\ticketshopapplication\ticketshop.web\wwwroot\lib\jquery\dist\
+i:{73569d7c-8c45-45f9-806b-486ee2405f6a}:c:\users\simona\desktop\integrated systems\ticketapplicationhw\ticketshopapplication\ticketshop.web\wwwroot\lib\jquery-validation\dist\
+++LICENSE
+i:{73569d7c-8c45-45f9-806b-486ee2405f6a}:c:\users\simona\desktop\integrated systems\ticketapplicationhw\ticketshopapplication\ticketshop.web\wwwroot\lib\bootstrap\license
+++LICENSE.txt
+i:{73569d7c-8c45-45f9-806b-486ee2405f6a}:c:\users\simona\desktop\integrated systems\ticketapplicationhw\ticketshopapplication\ticketshop.web\wwwroot\lib\jquery\license.txt
+i:{73569d7c-8c45-45f9-806b-486ee2405f6a}:c:\users\simona\desktop\integrated systems\ticketapplicationhw\ticketshopapplication\ticketshop.web\wwwroot\lib\jquery-validation-unobtrusive\license.txt
+++LICENSE.md
+i:{73569d7c-8c45-45f9-806b-486ee2405f6a}:c:\users\simona\desktop\integrated systems\ticketapplicationhw\ticketshopapplication\ticketshop.web\wwwroot\lib\jquery-validation\license.md
+++jquery.validate.unobtrusive.js
+i:{73569d7c-8c45-45f9-806b-486ee2405f6a}:c:\users\simona\desktop\integrated systems\ticketapplicationhw\ticketshopapplication\ticketshop.web\wwwroot\lib\jquery-validation-unobtrusive\jquery.validate.unobtrusive.js
+++jquery.js
+i:{73569d7c-8c45-45f9-806b-486ee2405f6a}:c:\users\simona\desktop\integrated systems\ticketapplicationhw\ticketshopapplication\ticketshop.web\wwwroot\lib\jquery\dist\jquery.js
+++additional-methods.js
+i:{73569d7c-8c45-45f9-806b-486ee2405f6a}:c:\users\simona\desktop\integrated systems\ticketapplicationhw\ticketshopapplication\ticketshop.web\wwwroot\lib\jquery-validation\dist\additional-methods.js
+++jquery.validate.js
+i:{73569d7c-8c45-45f9-806b-486ee2405f6a}:c:\users\simona\desktop\integrated systems\ticketapplicationhw\ticketshopapplication\ticketshop.web\wwwroot\lib\jquery-validation\dist\jquery.validate.js
+++jquery.validate.unobtrusive.min.js
+i:{73569d7c-8c45-45f9-806b-486ee2405f6a}:c:\users\simona\desktop\integrated systems\ticketapplicationhw\ticketshopapplication\ticketshop.web\wwwroot\lib\jquery-validation-unobtrusive\jquery.validate.unobtrusive.min.js
+++bootstrap.css
+i:{73569d7c-8c45-45f9-806b-486ee2405f6a}:c:\users\simona\desktop\integrated systems\ticketapplicationhw\ticketshopapplication\ticketshop.web\wwwroot\lib\bootstrap\dist\css\bootstrap.css
+++bootstrap-grid.css
+i:{73569d7c-8c45-45f9-806b-486ee2405f6a}:c:\users\simona\desktop\integrated systems\ticketapplicationhw\ticketshopapplication\ticketshop.web\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css
+++bootstrap-reboot.css
+i:{73569d7c-8c45-45f9-806b-486ee2405f6a}:c:\users\simona\desktop\integrated systems\ticketapplicationhw\ticketshopapplication\ticketshop.web\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.css
+++bootstrap.js
+i:{73569d7c-8c45-45f9-806b-486ee2405f6a}:c:\users\simona\desktop\integrated systems\ticketapplicationhw\ticketshopapplication\ticketshop.web\wwwroot\lib\bootstrap\dist\js\bootstrap.js
+++jquery.min.js
+i:{73569d7c-8c45-45f9-806b-486ee2405f6a}:c:\users\simona\desktop\integrated systems\ticketapplicationhw\ticketshopapplication\ticketshop.web\wwwroot\lib\jquery\dist\jquery.min.js
+++additional-methods.min.js
+i:{73569d7c-8c45-45f9-806b-486ee2405f6a}:c:\users\simona\desktop\integrated systems\ticketapplicationhw\ticketshopapplication\ticketshop.web\wwwroot\lib\jquery-validation\dist\additional-methods.min.js
+++jquery.validate.min.js
+i:{73569d7c-8c45-45f9-806b-486ee2405f6a}:c:\users\simona\desktop\integrated systems\ticketapplicationhw\ticketshopapplication\ticketshop.web\wwwroot\lib\jquery-validation\dist\jquery.validate.min.js
+++bootstrap.css.map
+i:{73569d7c-8c45-45f9-806b-486ee2405f6a}:c:\users\simona\desktop\integrated systems\ticketapplicationhw\ticketshopapplication\ticketshop.web\wwwroot\lib\bootstrap\dist\css\bootstrap.css.map
+++bootstrap.min.css
+i:{73569d7c-8c45-45f9-806b-486ee2405f6a}:c:\users\simona\desktop\integrated systems\ticketapplicationhw\ticketshopapplication\ticketshop.web\wwwroot\lib\bootstrap\dist\css\bootstrap.min.css
+++bootstrap-grid.css.map
+i:{73569d7c-8c45-45f9-806b-486ee2405f6a}:c:\users\simona\desktop\integrated systems\ticketapplicationhw\ticketshopapplication\ticketshop.web\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css.map
+++bootstrap-grid.min.css
+i:{73569d7c-8c45-45f9-806b-486ee2405f6a}:c:\users\simona\desktop\integrated systems\ticketapplicationhw\ticketshopapplication\ticketshop.web\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.min.css
+++bootstrap-reboot.css.map
+i:{73569d7c-8c45-45f9-806b-486ee2405f6a}:c:\users\simona\desktop\integrated systems\ticketapplicationhw\ticketshopapplication\ticketshop.web\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.css.map
+++bootstrap-reboot.min.css
+i:{73569d7c-8c45-45f9-806b-486ee2405f6a}:c:\users\simona\desktop\integrated systems\ticketapplicationhw\ticketshopapplication\ticketshop.web\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.min.css
+++bootstrap.bundle.js
+i:{73569d7c-8c45-45f9-806b-486ee2405f6a}:c:\users\simona\desktop\integrated systems\ticketapplicationhw\ticketshopapplication\ticketshop.web\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js
+++bootstrap.js.map
+i:{73569d7c-8c45-45f9-806b-486ee2405f6a}:c:\users\simona\desktop\integrated systems\ticketapplicationhw\ticketshopapplication\ticketshop.web\wwwroot\lib\bootstrap\dist\js\bootstrap.js.map
+++bootstrap.min.js
+i:{73569d7c-8c45-45f9-806b-486ee2405f6a}:c:\users\simona\desktop\integrated systems\ticketapplicationhw\ticketshopapplication\ticketshop.web\wwwroot\lib\bootstrap\dist\js\bootstrap.min.js
+++jquery.min.map
+i:{73569d7c-8c45-45f9-806b-486ee2405f6a}:c:\users\simona\desktop\integrated systems\ticketapplicationhw\ticketshopapplication\ticketshop.web\wwwroot\lib\jquery\dist\jquery.min.map
+++bootstrap.min.css.map
+i:{73569d7c-8c45-45f9-806b-486ee2405f6a}:c:\users\simona\desktop\integrated systems\ticketapplicationhw\ticketshopapplication\ticketshop.web\wwwroot\lib\bootstrap\dist\css\bootstrap.min.css.map
+++bootstrap-grid.min.css.map
+i:{73569d7c-8c45-45f9-806b-486ee2405f6a}:c:\users\simona\desktop\integrated systems\ticketapplicationhw\ticketshopapplication\ticketshop.web\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.min.css.map
+++bootstrap-reboot.min.css.map
+i:{73569d7c-8c45-45f9-806b-486ee2405f6a}:c:\users\simona\desktop\integrated systems\ticketapplicationhw\ticketshopapplication\ticketshop.web\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.min.css.map
+++bootstrap.bundle.js.map
+i:{73569d7c-8c45-45f9-806b-486ee2405f6a}:c:\users\simona\desktop\integrated systems\ticketapplicationhw\ticketshopapplication\ticketshop.web\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js.map
+++bootstrap.bundle.min.js
+i:{73569d7c-8c45-45f9-806b-486ee2405f6a}:c:\users\simona\desktop\integrated systems\ticketapplicationhw\ticketshopapplication\ticketshop.web\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.min.js
+++bootstrap.min.js.map
+i:{73569d7c-8c45-45f9-806b-486ee2405f6a}:c:\users\simona\desktop\integrated systems\ticketapplicationhw\ticketshopapplication\ticketshop.web\wwwroot\lib\bootstrap\dist\js\bootstrap.min.js.map
+++bootstrap.bundle.min.js.map
+i:{73569d7c-8c45-45f9-806b-486ee2405f6a}:c:\users\simona\desktop\integrated systems\ticketapplicationhw\ticketshopapplication\ticketshop.web\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.min.js.map
+++AdminController.cs
+i:{73569d7c-8c45-45f9-806b-486ee2405f6a}:c:\users\simona\desktop\integrated systems\ticketapplicationhw\ticketshopapplication\ticketshop.web\controllers\apicontrollers\admincontroller.cs
+++IOrderRepository.cs
+i:{7f997f5d-b568-46db-a997-fde8802ec41e}:c:\users\simona\desktop\integrated systems\ticketapplicationhw\ticketshopapplication\ticketshop.repository\interface\iorderrepository.cs
+++OrderRepository.cs
+i:{7f997f5d-b568-46db-a997-fde8802ec41e}:c:\users\simona\desktop\integrated systems\ticketapplicationhw\ticketshopapplication\ticketshop.repository\implementation\orderrepository.cs
+++IOrderService.cs
+i:{64c9a78c-fba4-4f75-b913-644971aa5fd6}:c:\users\simona\desktop\integrated systems\ticketapplicationhw\ticketshopapplication\ticketshop.service\interface\iorderservice.cs
+++OrderService.cs
+i:{64c9a78c-fba4-4f75-b913-644971aa5fd6}:c:\users\simona\desktop\integrated systems\ticketapplicationhw\ticketshopapplication\ticketshop.service\implementation\orderservice.cs
+++Microsoft.AspNetCore.Mvc.NewtonsoftJson (3.1.10)
+i:{73569d7c-8c45-45f9-806b-486ee2405f6a}:>1161
